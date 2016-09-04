@@ -5,6 +5,8 @@ This project is a web application for managing sports facilities.
 It allows to manage members, facilities, etc.
 The used programming languages are: php, html5, css, sql
 
+This project is linked to : https://github.com/mallannius/Sporting-Club-Management-Database-Module-
+
 II. Running the application
 -----------------
 
